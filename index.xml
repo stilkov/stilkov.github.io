@@ -5,7 +5,16 @@
     <link>/</link>
     <description>Recent content in Home on Stefan Tilkov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moved to GitHub Pages</title>
+      <link>/post/2020/12/11/moved-to-github-pages/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/11/moved-to-github-pages/</guid>
+      <description>I’ve moved this little excuse for a blog from Netlify to GitHub pages; I maintain the sources for the content there, anyway, and using it for a handful of static files seemed a little more lightweight. (At the moment, I still render the output using Hugo on the command line, but hope to figure out how to use GitHub actions to run this remotely – after all, why not spend a day or so figuring out how to automate something that will take me literally minutes otherwise?</description>
+    </item>
+    
     <item>
       <title>The Impossible Conference</title>
       <link>/post/2020/12/10/the-impossible-conference/</link>
