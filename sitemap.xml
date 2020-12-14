@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <loc>/post/2020/12/14/corona-vs.-datenschutz/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020/12/11/moved-to-github-pages/</loc>
-    <lastmod>2020-12-11T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/12/11/moved-to-github-pages/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url>
   

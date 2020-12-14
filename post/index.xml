@@ -5,7 +5,16 @@
     <link>/post/</link>
     <description>Recent content in Posts on Stefan Tilkov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corona vs. Datenschutz</title>
+      <link>/post/2020/12/14/corona-vs.-datenschutz/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/14/corona-vs.-datenschutz/</guid>
+      <description>Es treibt mich in den Wahnsinn, dass wir jedesmal das gleiche Spiel sehen: Ständig wird ein reales Versäumnis in der öffentlichen IT damit erklärt, es wäre der übertriebene deutsche Wunsch nach Datenschutz, der einer ordentlichen Lösung im Weg stünde. Man müsste nur den aufgeben und sich ein bisschen mehr wie China, Verzeihung, Taiwan verhalten und damit anfreunden, dass wir nur mehr Überwachung durchführen und Daten zentral abgelegen müssten, dann wäre alles so viel besser.</description>
+    </item>
+    
     <item>
       <title>Moved to GitHub Pages</title>
       <link>/post/2020/12/11/moved-to-github-pages/</link>
