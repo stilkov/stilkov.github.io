@@ -14,4 +14,4 @@ I also tried to opt for the (to me) simplest possible setup with regards to auth
 
 My goal was to reduce friction, and make sure I have zero excuses left for not writing. With this and the last post out of the way, I think I may have to admit I have reached that goal.
 
-Update: Some things have changed, will document them soon.
+Update: Some things have changed, will document them soon (e.g. this is now built with Hugo as a GitHub action, and the result is served by GitHub Pages)..
