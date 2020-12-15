@@ -12,7 +12,7 @@ permalinks:
 
 params:
   description: "Stefan Tilkov"
-  footer: "&copy; [Stefan Tilkov](/about) 2020 | [Home](/) | [RSS](/index.xml) | [Twitter](https://twitter.com/stilkov)"
+  footer: "&copy; 2020 [Stefan Tilkov](/about) | [Home](/) | [RSS](/index.xml) | [Twitter](https://twitter.com/stilkov)"
 
 markup:
   goldmark:
