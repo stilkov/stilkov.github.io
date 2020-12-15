@@ -1,0 +1,20 @@
+baseurl: "/"
+
+title: "Stefan Tilkov"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+params:
+  description: "Stefan Tilkov"
+  footer: "&copy; [Stefan Tilkov](/about) 2020 | [Home](/) | [RSS](/index.xml) | [Twitter](https://twitter.com/stilkov)"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
