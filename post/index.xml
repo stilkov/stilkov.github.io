@@ -5,7 +5,17 @@
     <link>/post/</link>
     <description>Recent content in Posts on Stefan Tilkov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keyboard Remapping</title>
+      <link>/post/2020/12/23/keyboard-remapping/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/23/keyboard-remapping/</guid>
+      <description>Sometimes I spend way too much time automating or customizing things on my computers, usually with an exceptionally bad cost/benefit relation. But hey, it’s fun, and after a while, the cost is forgotten and the benefits actually feel really good.
+A few years ago, my poison of choice was finding the perfect keyboard layout. I know many people are fans of using a US keyboard layout even when they write other languages, such as German, because that’s so much better for programming.</description>
+    </item>
+    
     <item>
       <title>Corona vs. Datenschutz</title>
       <link>/post/2020/12/14/corona-vs.-datenschutz/</link>
