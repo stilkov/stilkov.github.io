@@ -5,7 +5,17 @@
     <link>/post/</link>
     <description>Recent content in Posts on Stefan Tilkov</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT mit Vernunft</title>
+      <link>/post/2021/01/05/it-mit-vernunft/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/01/05/it-mit-vernunft/</guid>
+      <description>Ich habe wie viele andere auch schon häufiger über die mangelhafte Digitalisierung in der öffentlichen IT, im Gesundheits- und im Schulwesen gemotzt, z.B. hier und hier. Aber natürlich muss man sich die Frage stellen, was man tun könnte, um nicht immer nur herumzujammern, sondern konstruktiv etwas zur Verbesserung beizutragen.
+Ein erster möglicher Weg wäre der politische: Man wird Mitglied einer Partei (oder sucht zumindest deren Nähe) und bemüht sich, in eine verantwortungsvolle Position zu kommen, aus der heraus man Dinge verändern kann.</description>
+    </item>
+    
     <item>
       <title>Keyboard Remapping</title>
       <link>/post/2020/12/23/keyboard-remapping/</link>
