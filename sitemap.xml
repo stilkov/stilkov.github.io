@@ -4,42 +4,72 @@
   
   <url>
     <loc>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</loc>
-    <lastmod>2021-01-15T22:23:35+01:00</lastmod>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tilkov.com/post/</loc>
-    <lastmod>2021-01-15T22:23:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2021/01/15/a-collection-of-old-stuff/</loc>
-    <lastmod>2021-01-15T17:25:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2021/01/15/theres-no-testing-like-production-testing/</loc>
-    <lastmod>2021-01-15T17:24:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2021/01/15/accessibility/</loc>
-    <lastmod>2021-01-15T17:23:29+01:00</lastmod>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/</loc>
-    <lastmod>2021-01-05T20:30:24+01:00</lastmod>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tilkov.com/post/2020/12/23/keyboard-remapping/</loc>
-    <lastmod>2020-12-23T10:42:08+01:00</lastmod>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/why-is-this-site-so-ugly/</loc>
-    <lastmod>2020-12-15T23:15:38+01:00</lastmod>
+    <loc>https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/10/the-impossible-conference/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/03/accessibility/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/12/01/speaking-up/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/</loc>
+    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
   <url>
@@ -48,42 +78,12 @@
   </url>
   
   <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/corona-vs.-datenschutz/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
+    <loc>https://www.tilkov.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://www.tilkov.com/</loc>
     <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/moved-to-github-pages/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/speaking-up/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/the-impossible-conference/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/wie-man-die-%C3%B6ffentliche-it-rettet/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/post/2020/12/15/%C3%B6ffentliche-it-und-die-sinnfrage/</loc>
-    <lastmod>2020-12-15T23:03:10+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.tilkov.com/categories/</loc>
   </url>
   
   <url>

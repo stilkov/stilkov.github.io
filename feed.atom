@@ -7,7 +7,7 @@
     <uri>https://www.tilkov.com/</uri>
   </author>
   <generator>Hugo gohugo.io</generator>
-  <updated>2021-01-15T21:31:44Z</updated>
+  <updated>2021-01-15T21:52:37Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.tilkov.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.tilkov.com/" hreflang="en-us"/>
   <entry>
@@ -17,45 +17,9 @@
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</id>
-    <updated>2021-01-15T21:23:35Z</updated>
-    <published>2021-01-15T21:23:35Z</published>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2021-01-15T21:30:15Z</published>
     <content type="html">&lt;p&gt;Back in the old days, this would have been the very first thing I cared about, but I guess I’m either getting old or I’m actually more reasonable and spend time on content instead of meta issues. Whatever the reason, the site now has &lt;a href=&#34;/feed.atom&#34;&gt;a full text Atom feed&lt;/a&gt;. That’s the saner version of RSS, but if you don’t care about the difference, it should do approximately the same thing for you. Let me know if there are any issues.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>A Collection of Old Stuff</title>
-    <author>
-      <name>Stefan Tilkov</name>
-      <uri>https://www.tilkov.com/</uri>
-    </author>
-    <id>https://www.tilkov.com/post/2021/01/15/a-collection-of-old-stuff/</id>
-    <updated>2021-01-15T16:25:19Z</updated>
-    <published>2021-01-15T16:25:19Z</published>
-    <content type="html">&lt;p&gt;It’s hard to believe even for myself, but for quite some time (from 2003 until 2010), I was a very regular “blogger” (Don’t laugh! Yes, we did use that label unironically back then.) I’ve tried multiple times to restart the habit, but managed only 30 posts from 2011 to 2017. For now, I maintain all of my posts from back then &lt;a href=&#34;https://www.innoq.com/blog/st/&#34;&gt;in an archive&lt;/a&gt; over on the innoq.com main site, under the original URI.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>There’s no Testing like Production Testing</title>
-    <author>
-      <name>Stefan Tilkov</name>
-      <uri>https://www.tilkov.com/</uri>
-    </author>
-    <id>https://www.tilkov.com/post/2021/01/15/theres-no-testing-like-production-testing/</id>
-    <updated>2021-01-15T16:24:31Z</updated>
-    <published>2021-01-15T16:24:31Z</published>
-    <content type="html">&lt;p&gt;One of the benefits of having this little domain outside of the innoq.com realm: I’m much more likely to try things out. I admit this reduces the barrier to writing something quite a bit, even though our internal barriers to publishing couldn’t be much lower than they are. In this spirit, this post might appear in my LinkedIn profile, hopefully not in the wrong place. But hey, no testing like production testing.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <author>
-      <name>Stefan Tilkov</name>
-      <uri>https://www.tilkov.com/</uri>
-    </author>
-    <id>https://www.tilkov.com/post/2021/01/15/accessibility/</id>
-    <updated>2021-01-15T16:23:29Z</updated>
-    <published>2021-01-15T16:23:29Z</published>
-    <content type="html">&lt;p&gt;A long time ago, I recorded a podcast episode with &lt;a href=&#34;http://www.heise.de/developer/artikel/Episode-38-Barrierefreiheit-1780121.html&#34;&gt;Artur Ortega&lt;/a&gt; (in German, but we’ve actually got &lt;a href=&#34;https://www.case-podcast.org&#34;&gt;another one coming up in English&lt;/a&gt;, although not about this topic; also, Artur is active on Twitter as &lt;a href=&#34;https://mobile.twitter.com/DesignedByBlind&#34;&gt;@DesignedByBlind&lt;/a&gt; and worth following, just saying.) We talked about accessibility, and the discussion we had before we actually started recording really opened my mind to a world I had only known extremely superficially. What was especially mind-blowing to me was that Germany, my own country, turned out to be rather not at all the model environment I had expected it to be. In fact, when you look a little more closely, Germany is actually a disaster. For example, it’s still perfectly acceptable for schools, public buildings, or cultural venues to not be accessible to wheelchair users. There is still no law mandating private web sites are accessible (although there is one for the public sector, but it’s still pretty new).&lt;/p&gt;
-&lt;p&gt;I find this completely unacceptable. I think it’s a disgrace that it’s still up for debate whether someone who is visually impaired, or someone who can’t hear, or someone who can’t use a mouse, can be excluded from using some service &lt;em&gt;even though there would be perfectly good ways for them to use those things if people made a bit of an effort&lt;/em&gt;. Worse, sometimes it’s more a case of people &lt;em&gt;ruining perfectly good accessibility&lt;/em&gt; that’s built into things already, simply out of ignorance.&lt;/p&gt;
-&lt;p&gt;This is one of the cases &lt;a href=&#34;/post/2020/12/01/speaking-up/&#34;&gt;I referred to&lt;/a&gt; before: I think we as an industry have a resonsibility here, a responsibility to refuse to build things that exclude people. And of course “the industry” here is just a placeholder: I think it should be each individual’s responsibility to care about those aspects, and to refuse to build inaccessible things if they’re asked to do so.&lt;/p&gt;
-&lt;p&gt;Now of course, this may not always be feasible, and I don’t subscribe to the view that indididual action is enough to heal the lack of legal rules and regulations. But being loud-mouthed about it, talking about it, trying to advocate it wherever you can, voting appropriately, and simply &lt;em&gt;caring&lt;/em&gt; about this should be a moral duty.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>IT mit Vernunft</title>
@@ -64,8 +28,8 @@
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/</id>
-    <updated>2021-01-05T19:30:24Z</updated>
-    <published>2021-01-05T19:30:24Z</published>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2021-01-05T19:30:15Z</published>
     <content type="html">&lt;p&gt;Ich habe wie viele andere auch schon häufiger über die mangelhafte Digitalisierung in der öffentlichen IT, im Gesundheits- und im Schulwesen gemotzt, z.B. &lt;a href=&#34;/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/&#34;&gt;hier&lt;/a&gt; und &lt;a href=&#34;/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/&#34;&gt;hier&lt;/a&gt;. Aber natürlich muss man sich die Frage stellen, was man tun könnte, um nicht immer nur herumzujammern, sondern konstruktiv etwas zur Verbesserung beizutragen.&lt;/p&gt;
 &lt;p&gt;Ein erster möglicher Weg wäre der politische: Man wird Mitglied einer Partei (oder sucht zumindest deren Nähe) und bemüht sich, in eine verantwortungsvolle Position zu kommen, aus der heraus man Dinge verändern kann. Mal ganz davon abgesehen, dass man erst mal eine Partei finden muss, die einem nicht zumindest in Teilen zuwider ist: Das ist sehr mühselig und langwierig, und ob man am Ende wirklich erfolgreich ist, hängt sehr stark davon ab, wie sehr man bereit ist, sich innerparteilich zu profilieren oder sich geeignete Personen zu suchen, die einen unter die Fittiche nehmen und protegieren. Muss man mögen.&lt;/p&gt;
 &lt;p&gt;Zweite Variante: Man versucht’s privatwirtschaftlich, indem man ein Unternehmen gründet (oder in einem bestehenden Unternehmen eine neue Sparte etabliert), die eines der Probleme mit einem Produkt oder einer Dienstleistung adressiert. Das ist durchaus denkbar, allerdings muss man sich darauf gefasst machen, dass man gegen Windmühlen kämpft: Die Interessen derjenigen, die über einen Kauf entscheiden, sind u.U. stärker auf den Erhalt des Systems als auf dessen Veränderung aus. Gleichzeitig muss man Kompromisse machen, um mit genügend großem wirtschaftlichem Erfolg die eigene Zukunft zu sichern. Nicht unmöglich, aber mühselig – und aus rein egoistischer Sicht gibt es sehr viele andere Branchen, in denen man einfacher unterwegs sein kann.&lt;/p&gt;
@@ -82,8 +46,8 @@
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/23/keyboard-remapping/</id>
-    <updated>2020-12-23T09:42:08Z</updated>
-    <published>2020-12-23T09:42:08Z</published>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-23T19:10:15Z</published>
     <content type="html">&lt;p&gt;Sometimes I spend way too much time automating or customizing things on my computers, usually with an exceptionally bad cost/benefit relation. But hey, it’s fun, and after a while, the cost is forgotten and the benefits actually feel really good.&lt;/p&gt;
 &lt;p&gt;A few years ago, my poison of choice was finding the perfect keyboard layout. I know many people are fans of using a US keyboard layout even when they write other languages, such as German, because that’s so much better for programming. For most programmers, I guess that’s a very good choice, especially if you write most texts in English, too, and only occasionally need special characters for another language. For me, it’s an actual mixture of a lot of German, quite a bit of English, and (sadly) only occasional programming, so I really needed something that made all three convenient. For example, I need German characters such as ü, ä, ö, ß somewhere where I can type them quickly. I could never get used to having to type some weird dead key combination to get them.&lt;/p&gt;
 &lt;p&gt;So I was extremely happy to discover a rather obscure keyboard layout called &lt;a href=&#34;https://neo-layout.org&#34;&gt;Neo&lt;/a&gt; (German website only), and I’ve been using it for a few years now. Needless to say, getting started was a pain, and I spent a few weeks typing with an excruciating lack of speed. But I really like the way it allows me to get all the characters I want, including real German and English typography chars such as ‘„’, ‘»’, ‘–’, etc. and type all kinds of braces, parens really quickly. I also finally learned to touch-type, because you simply have no other chance if almost none of the letters on your keyboard’s keys have anything to do with the characters that appear when you type them. Again, you need to be a little crazy to actually invest the time to relearn typing, and I’m not at all sure I’d recommend it. I’m reasonably happy, though.&lt;/p&gt;
@@ -91,30 +55,14 @@
 &lt;p&gt;It’s not hard to imagine how I’ll spend my free time during the Christmas break.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Why is this Site so Ugly?</title>
-    <author>
-      <name>Stefan Tilkov</name>
-      <uri>https://www.tilkov.com/</uri>
-    </author>
-    <id>https://www.tilkov.com/post/2020/12/15/why-is-this-site-so-ugly/</id>
-    <updated>2020-12-15T22:15:38Z</updated>
-    <published>2020-12-15T22:15:38Z</published>
-    <content type="html">&lt;p&gt;You might think the answer to this question is obvious: Because I don’t know CSS well enough to make it beautiful. And while technically, that’s 100% correct, there’s also a secondary reason: I wanted to reduce the effort to maintain things around here to an absolute minimum. I just wanted things to be clearly readable, and I think the current “design” serves that purpose quite well.&lt;/p&gt;
-&lt;p&gt;Of course even the 20 or so lines of inline CSS (yes indeed) are stolen from the brilliant &lt;a href=&#34;https://perfectmotherfuckingwebsite.com&#34;&gt;perfect motherfucking website&lt;/a&gt;. I inlined them because that means that if you’re reading a page like this one, your browser was served exactly that, a single page (unless I include an image or diagram because it makes sense for the content). It’s as design-free as I dare to make it. I think this works very well for single content pages.&lt;/p&gt;
-&lt;p&gt;Of course, design matters more on other pages, e.g. the home page itself. But I don’t really think that’s a problem either. Who would end up visiting that anyway? Chances are you arrived here because you followed a link from some social media post, or because something turned up in a Google search. Home pages are vastly overrated.&lt;/p&gt;
-&lt;p&gt;I also tried to opt for the (to me) simplest possible setup with regards to authoring posts and maintaing this site. So I decided to host this on &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, based on a &lt;a href=&#34;https://github.com/stilkov/netlify-site&#34;&gt;Github repo&lt;/a&gt; containing a very minimalistic &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; setup (originally based on the &lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;xmin theme&lt;/a&gt;, but there’s really nothing left of it). Create a post, add, commit, push, done. It’s simple and serves its purpose, but I’m not &lt;em&gt;completely&lt;/em&gt; happy with it: For my taste, Netlify is way too slow – probably unnoticable for many sites, but in this particular case, there is really almost no content to serve, and the fact that occasionally takes more than a second is pretty ridiculous. But I’ll deal with that another time.&lt;/p&gt;
-&lt;p&gt;My goal was to reduce friction, and make sure I have zero excuses left for not writing. With this and the last post out of the way, I think I may have to admit I have reached that goal.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Update 2020-12-15&lt;/em&gt;: Some things have changed, I’ll document them soon (e.g. this is now built with Hugo as a GitHub action, and the result is served by GitHub Pages).&lt;/p&gt;</content>
-  </entry>
-  <entry>
     <title>Corona vs. Datenschutz</title>
     <author>
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/corona-vs.-datenschutz/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
+    <id>https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-14T19:10:15Z</published>
     <content type="html">&lt;p&gt;Es treibt mich in den Wahnsinn, dass wir jedesmal das gleiche Spiel sehen: Ständig wird ein reales Versäumnis in der öffentlichen IT damit erklärt, es wäre der übertriebene deutsche Wunsch nach Datenschutz, der einer ordentlichen Lösung im Weg stünde. Man müsste nur den aufgeben und sich ein bisschen mehr wie China, Verzeihung, Taiwan verhalten und damit anfreunden, dass wir nur mehr Überwachung durchführen und Daten zentral abgelegen müssten, dann wäre alles so viel besser.&lt;/p&gt;
 &lt;p&gt;Bullshit.&lt;/p&gt;
 &lt;p&gt;Man könnte sehr viele Dinge verbessern. Aktuell am Beispiel des Corona-Kontakt-Tracings: Vielleicht könnte man als erstes einmal die Fax-Schnittstellen loswerden, auf die viele der Gesundheitsämter heute noch angewiesen sind. Man könnte dazu die Ämter mit einer guten Software-Lösung ausstatten, die z.B. von den Ländern mandantenfähig betrieben wird, mit klarer Isolation der Daten einzelner Ämter voneinander. Personen, die für ein Gesundheitsamt arbeiten, könnten diese Anwendung auch aus dem Home-Office benutzen (ein nahezu revolutionärer Gedanke, ich weiß). Diese Anwendung könnte eine out-of-the-box funktionierende Schnittstelle zur Corona-App haben. Sie könnte an die Labore angebunden sein (bzw. eine Standard-API zur Verfügung stellen, die von gängigen Labor-Lösungen verwendet werden könnte). Die Corona-App könnte um ein freiwilliges, explizites Kontaktprotokoll-Feature erweitert werden – bei einem Treffen könnten alle Beteiligten von ihrer App kurz gefragt werden, ob sie das Treffen lokal (dezentral) ablegen wollen (mit Einwilligung der Beteiligten spricht überhaupt nichts dagegen; das gilt übrigens für die meisten Datenschutzthemen, wenn man sich eine explizite Einwilligung zur Nutzung von Daten holt, an denen man ein berechtigtes Interesse hat). Restaurants (wenn sie denn wieder geöffnet sind) könnten einen 2D-Barcode am Eingang platzieren, den man mit der App scannen kann, um den eigenen Besuch dort ins Protokoll zu schreiben.&lt;/p&gt;
@@ -126,25 +74,22 @@
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/moved-to-github-pages/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
+    <id>https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-11T19:10:15Z</published>
     <content type="html">&lt;p&gt;I’ve moved this little excuse for a blog from Netlify to GitHub pages; I maintain the sources for the content there, anyway, and using it for a handful of static files seemed a little more lightweight. (At the moment, I still render the output using Hugo on the command line, but hope to figure out how to use GitHub actions to run this remotely – after all, why not spend a day or so figuring out how to automate something that will take me literally minutes otherwise?)&lt;/p&gt;
 &lt;p&gt;If you had some issues accessing posts, it was due my lack of DNS skills. Apologies.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Speaking up</title>
+    <title>There’s no Testing like Production Testing</title>
     <author>
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/speaking-up/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
-    <content type="html">&lt;p&gt;Here’s one of the things I’ve started to believe in the last few years: Society has been very good to us, and we owe it to society to become more active to change it for the better (or prevent it from becoming worse). By &lt;em&gt;us&lt;/em&gt;, I refer to us tech people – developers, software architects, anyone remotely connected to the highly successful “digitalization” industry. Sure, we used to be the unhappy nerds noone wanted to party with, and maybe at some point in time, self-pity was justified. But those days are long gone. These days, people in this industry make something between a comfortable and a ridiculous amount of money, and often have the luxury of being able to take their pick from multiple job offers. We’re respected, possibly envied, and not only financially: We’re also the ones who know how most of the new-fangled stuff works, at least to a larger degree than most “normal” people; we’re never the ones who are threatened by new technological developments – we’re the ones helping to create the thread. It’s nice to be in that position, and I enjoy it quite a bit. (Not threatening people; you know what I mean.)&lt;/p&gt;
-&lt;p&gt;I am not saying that the IT industry is inherently bad, or that progress can be stopped, or that work that can be trivially automated shouldn’t be. What I am saying is that we need to start doing those things more responsibly than we did in the past.&lt;/p&gt;
-&lt;p&gt;On the more trivial side of things, it means that some tech people need to shut up. Just because you’ve been lucky enough to be in the tech industry at the right place and time enabling you to make a metric shit-ton of money doesn’t make you more worthy of attention, or your ramblings on whatever ethical or political problem you write or talk about relevant. When I was younger, I used to believe in the awesomeness, the general genius of some of my tech heroes, independently of what it was they talked about. It turns out that’s a really bad idea, and there are numerous examples of brilliant tech people who turn out to be complete fools when it comes to topics any politics, sociology or psychology major learns within their first university year.&lt;/p&gt;
-&lt;p&gt;On the more relevant side of things, I believe that we need to speak up, specifically in those cases when our expertise is important to arrive at good decisions. Some examples include the capabilities and limits of machine learning and the related risk of bias, end-to-end encryption and the foolishness of trying to break it a little bit to support law enforcement, the risks of algorithms driving user engagement on social media platforms, the horrible concept of electronic voting, or the lack of accessibility of web sites and apps. While we’re definitely not the right people to make those decisions on our own, it’s an even worse idea for anyone to make them without appropriate technical input.&lt;/p&gt;</content>
+    <id>https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-11T19:10:15Z</published>
+    <content type="html">&lt;p&gt;One of the benefits of having this little domain outside of the innoq.com realm: I’m much more likely to try things out. I admit this reduces the barrier to writing something quite a bit, even though our internal barriers to publishing couldn’t be much lower than they are. In this spirit, this post might appear in my LinkedIn profile, hopefully not in the wrong place. But hey, no testing like production testing.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>The Impossible Conference</title>
@@ -152,9 +97,9 @@
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/the-impossible-conference/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
+    <id>https://www.tilkov.com/post/2020/12/10/the-impossible-conference/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-10T19:10:15Z</published>
     <content type="html">&lt;p&gt;I had tons of fun yesterday at INNOQ’s first &lt;a href=&#34;https://technologyday.innoq.com&#34;&gt;Technology Day&lt;/a&gt;, our very own litte online conference. The idea was first discussed exactly two months ago, when my co-worker Martina approached me and suggested we might do something for our customers (and for our marketing) by assembling some of the awesome people we have on board, asking them to present something they’d possibly presented this year elsewhere, or wanted to present for the first time, and adding some interesting interactive formats that highlight how we work these days.&lt;/p&gt;
 &lt;p&gt;She and I met (virtually) for half an hour and decided that essentially, there was really no way this could be made to work, as we’re typically all quite busy near the end of the year; she herself was very interested in developing this, but had almost no time at all because she was super-busy in her project; essentially, without a dedicated team of people, it would probably be best to postpone it for a year.&lt;/p&gt;
 &lt;p&gt;But it couldn’t hurt to explore the idea a little more in what we labelled a conference creation bootcamp. We quickly identified a number of people we knew might be able to help as a program committee, but of course we also knew if we tried to find a date that worked for all of them, we’d be looking at something like 3 months from now. So we decided to pick a date a week later, where the two of us could free up a day and see how far we’d get. We’d invite the others, if only for half hour here and there. The goal would be to create something that allowed us to make a decision about whether to move forward or not at the end of the one day workshop.&lt;/p&gt;
@@ -164,14 +109,37 @@
 &lt;p&gt;Try doing something impossible, occasionally. It’s a ton of fun.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>Öffentliche IT und die Sinnfrage</title>
+    <author>
+      <name>Stefan Tilkov</name>
+      <uri>https://www.tilkov.com/</uri>
+    </author>
+    <id>https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-07T19:10:15Z</published>
+    <content type="html">&lt;p&gt;In meinem Post zum Thema &lt;a href=&#34;/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/&#34;&gt;IT bei der öffentlichen Hand&lt;/a&gt; habe ich mich auf das Thema Gehalt konzentriert. Daraus könnte man schließen, dass ich das für das Wichtigste halte – aber das tue ich keineswegs. Es ist ein notwendiger, aber nicht hinreichender Bestandteil eines Gesamtpakets, und zwar der, der aus meiner Sicht im öffentlichen Dienst am schwierigsten zu ändern ist – deswegen habe ich zunächst dazu etwas geschrieben.&lt;/p&gt;
+&lt;p&gt;Aber es gibt natürlich noch eine Reihe weiterer Aspekte, die einen Arbeitgeber im IT-Umfeld aus meiner Sicht attraktiv machen. Ohne Anspruch auf Vollständigkeit oder Priorisierung (mit Ausnahme des letzten Punktes) habe ich dazu meine Liste zusammengestellt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordentliche Ausrüstung (Hardware, Software, sonstige Arbeitsmittel, Ausbildung usw.): In der Regel möchten alle Mitarbeiterinnen und Mitarbeiter das Beste, und wenn man sie das vertrauensvoll machen lässt, tun sie das auch. Die wenigsten Leute kommen auf die Idee, Dinge zu bestellen, die abwegig teuer oder beruflich nicht zu rechtfertigen sind. In der Privatwirtschaft kann man immer noch im Nachhinein korrigieren, wenn etwas aus dem Ruder läuft. Mit Steuergeldern kann man allerdings aus guten Grund nicht so umgehen wie mit privaten bzw. privatwirtschaftlichen Geldern, deswegen wird man im öffentlichen Umfeld vermutlich nie die gleiche Freiheit erzielen können. Aber man kann ein großzügiges Budget und einen einfachen und vor allem schnellen Beschaffungsprozess aufsetzen, indem man einen Rahmenvertrag verhandelt.&lt;/li&gt;
+&lt;li&gt;Vernünftige Arbeitsprozesse: Man schafft wenige, klare Rahmenbedingungen und überlässt es größtmöglich autonomen Teams, sich selbst zu organisieren. Man kann dabei einige Grundwerte vorgeben, wie z.B. benutzerfokussierte, von Tests gesteuerte Produktentwicklung, schnelle Zyklen/kurze Iterationen, MVP-Ansätze, stehende, interdisziplinäre Teams mit Ende-zu-Ende-Verantwortung statt kurzfristig zusammengestellten Projektteams. Diejenigen, die die Arbeit machen, wissen am besten, was funktioniert und sollten daran auch gemessen werden.&lt;/li&gt;
+&lt;li&gt;Teamübergreifender Austausch: Wissen verbreitet sich am besten, wenn Menschen freiwillig daran interessiert sind. Brown-Bag-Sessions, interne und externe Vorträge, Blogposts, gemeinsame Events, Interessengruppen und Workshops sind nur einige der Mittel, die dabei helfen. Die Energie, die dabei freigesetzt werden kann, ist ein großartiger Motor für Innovation. Die Erlaubnis, öffentlich über die Arbeit zu sprechen, erfordert ebenfalls Vertrauen. Auch hier wird man vermutlich mehr regeln müssen als in der Privatwirtschaft, aber ein Redeverbot ist sicher nicht notwendig.&lt;/li&gt;
+&lt;li&gt;Respektvolles Miteinander: Eine diverse, menschliche, freundliche, familienfreundliche, sichere Arbeitsumgebung, in der man sich gegenseitig etwas zutraut, sich hilft, Fehler nicht als Makel empfindet, Dinge offen ansprechen kann, transparent agiert – das mag für manche wie ein idealisierter Traum klingen, ist aber keine Seltenheit. Gerade, wenn man eine Organisation neu aufsetzt, lässt sich so etwas von Anfang an gleich richtig machen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es gibt sicher noch viele Aspekte mehr, die ich im Eifer des Gefechts gerade vergesse. Aber ein letzter Punkt ist mir noch besonders wichtig:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinn: In vielen Unternehmen und Unternehmungen ist das der kritischste Punkt. Hat das, was wir tun, wirklich Sinn? Noch ein Bankensystem, eine E-Commerce-Lösung, eine Werbeplattform – sind wir in solchen Umgebungen wirklich sicher, dass wir die Welt zu einem besseren Ort machen, wenn wir an solchen Dingen arbeiten? Ich arbeite seit knapp 30 Jahren gerne in der Privatwirtschaft und kann dort durchaus Unterschiede machen zwischen Dingen, die in Ordnung sind, solchen, die wirklich Freude machen, und solchen, an denen ich lieber nicht mitarbeiten möchte. Aber hier liegt aus meiner Sicht die größte Chance, und es ist nahezu tragisch, dass sie nicht genutzt wird: &lt;em&gt;Eigentlich&lt;/em&gt; dürfte nichts die Sinnfrage so gut beantworten können wie eine Lösung, die der Allgemeinheit zugute kommt. Bessere Verteilung staatlicher Leistungen, weniger Bürokratie, einfachere Prozesse, besseres Gesundheitsmanagement, bessere Lösungen für Schule und Ausbildung … die Liste der Dinge, die die öffentliche Hand tut oder tun könnte, die ohne jede Frage &lt;em&gt;sinnvoll&lt;/em&gt; sind, ist eigentlich paradiesisch. Das ist deswegen so schön, weil genau die Frage nach dem Sinn die ist, deren positive Beantwortung für Motivation von Mitarbeiterinnen und Mitarbeitern am allerwichtigsten ist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Was ich damit sagen will: &lt;em&gt;Eigentlich&lt;/em&gt; müsste das Mitwirken an Lösungen im öffentlichen Dienst der tollste Job überhaupt sein. Dass es das nicht ist, ist tragisch und schadet uns allen. Und bevor mich jemand bezichtigt, auch nur einer von den »Die-da-oben-sind-alle-so-doof«-Schreiern zu sein: Das meine ich keinesfalls. Es ist unser Staat, gestaltet von den durch uns demokratisch gewählten Kräften, der hier die falschen Ergebnisse produziert, und deswegen sind wir auch alle daran mitschuld. Wir sollten das ändern. Eine Partei, die sich das auf die Fahnen schreibt, fände ich sehr unterstützungswürdig. Eine parteiübergreifende Initiative dazu noch viel mehr.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>Wie man die öffentliche IT rettet</title>
     <author>
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/wie-man-die-%C3%B6ffentliche-it-rettet/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
+    <id>https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-06T19:10:15Z</published>
     <content type="html">&lt;p&gt;Die meisten IT-Fuzzis sind gar nicht so dämlich. Es gibt genügend Leute, die gute Ideen haben und sinnvoll dazu beitragen könnten, Dinge besser zu machen. Zum Beispiel die Corona-Infektionsnachverfolgung, über die ich gerade &lt;a href=&#34;https://www.welt.de/politik/deutschland/article221852030/Corona-Nachverfolgung-Bund-verweigert-Robert-Koch-Institut-IT-Kraefte.html&#34;&gt;diese Meldung&lt;/a&gt; gelesen habe, die mich schier in den Wahnsinn treibt (sorry für das Medium):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;»Der Bund verweigert dem Robert Koch-Institut (RKI) während der zweiten Corona-Welle eine dringend notwendige Aufstockung des Personals. […] Der Haushaltsausschuss des Bundestags bewilligte dem RKI für den IT-Bereich nach Informationen von WELT AM SONNTAG Ende November lediglich vier neue Stellen – von 68, die das Institut beantragt hatte.«&lt;/p&gt;
@@ -191,26 +159,58 @@
 &lt;p&gt;&lt;em&gt;Update 2020-12-07:&lt;/em&gt; Gehalt ist natürlich nur ein Aspekt, und weder der einzige noch der wichtigste. Ein paar meiner Gedanken dazu finden sich &lt;a href=&#34;/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/&#34;&gt;in diesem Follow-up&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Öffentliche IT und die Sinnfrage</title>
+    <title>Accessibility</title>
     <author>
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
-    <id>https://www.tilkov.com/post/2020/12/15/%C3%B6ffentliche-it-und-die-sinnfrage/</id>
-    <updated>2020-12-15T22:03:10Z</updated>
-    <published>2020-12-15T22:03:10Z</published>
-    <content type="html">&lt;p&gt;In meinem Post zum Thema &lt;a href=&#34;/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/&#34;&gt;IT bei der öffentlichen Hand&lt;/a&gt; habe ich mich auf das Thema Gehalt konzentriert. Daraus könnte man schließen, dass ich das für das Wichtigste halte – aber das tue ich keineswegs. Es ist ein notwendiger, aber nicht hinreichender Bestandteil eines Gesamtpakets, und zwar der, der aus meiner Sicht im öffentlichen Dienst am schwierigsten zu ändern ist – deswegen habe ich zunächst dazu etwas geschrieben.&lt;/p&gt;
-&lt;p&gt;Aber es gibt natürlich noch eine Reihe weiterer Aspekte, die einen Arbeitgeber im IT-Umfeld aus meiner Sicht attraktiv machen. Ohne Anspruch auf Vollständigkeit oder Priorisierung (mit Ausnahme des letzten Punktes) habe ich dazu meine Liste zusammengestellt:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ordentliche Ausrüstung (Hardware, Software, sonstige Arbeitsmittel, Ausbildung usw.): In der Regel möchten alle Mitarbeiterinnen und Mitarbeiter das Beste, und wenn man sie das vertrauensvoll machen lässt, tun sie das auch. Die wenigsten Leute kommen auf die Idee, Dinge zu bestellen, die abwegig teuer oder beruflich nicht zu rechtfertigen sind. In der Privatwirtschaft kann man immer noch im Nachhinein korrigieren, wenn etwas aus dem Ruder läuft. Mit Steuergeldern kann man allerdings aus guten Grund nicht so umgehen wie mit privaten bzw. privatwirtschaftlichen Geldern, deswegen wird man im öffentlichen Umfeld vermutlich nie die gleiche Freiheit erzielen können. Aber man kann ein großzügiges Budget und einen einfachen und vor allem schnellen Beschaffungsprozess aufsetzen, indem man einen Rahmenvertrag verhandelt.&lt;/li&gt;
-&lt;li&gt;Vernünftige Arbeitsprozesse: Man schafft wenige, klare Rahmenbedingungen und überlässt es größtmöglich autonomen Teams, sich selbst zu organisieren. Man kann dabei einige Grundwerte vorgeben, wie z.B. benutzerfokussierte, von Tests gesteuerte Produktentwicklung, schnelle Zyklen/kurze Iterationen, MVP-Ansätze, stehende, interdisziplinäre Teams mit Ende-zu-Ende-Verantwortung statt kurzfristig zusammengestellten Projektteams. Diejenigen, die die Arbeit machen, wissen am besten, was funktioniert und sollten daran auch gemessen werden.&lt;/li&gt;
-&lt;li&gt;Teamübergreifender Austausch: Wissen verbreitet sich am besten, wenn Menschen freiwillig daran interessiert sind. Brown-Bag-Sessions, interne und externe Vorträge, Blogposts, gemeinsame Events, Interessengruppen und Workshops sind nur einige der Mittel, die dabei helfen. Die Energie, die dabei freigesetzt werden kann, ist ein großartiger Motor für Innovation. Die Erlaubnis, öffentlich über die Arbeit zu sprechen, erfordert ebenfalls Vertrauen. Auch hier wird man vermutlich mehr regeln müssen als in der Privatwirtschaft, aber ein Redeverbot ist sicher nicht notwendig.&lt;/li&gt;
-&lt;li&gt;Respektvolles Miteinander: Eine diverse, menschliche, freundliche, familienfreundliche, sichere Arbeitsumgebung, in der man sich gegenseitig etwas zutraut, sich hilft, Fehler nicht als Makel empfindet, Dinge offen ansprechen kann, transparent agiert – das mag für manche wie ein idealisierter Traum klingen, ist aber keine Seltenheit. Gerade, wenn man eine Organisation neu aufsetzt, lässt sich so etwas von Anfang an gleich richtig machen.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Es gibt sicher noch viele Aspekte mehr, die ich im Eifer des Gefechts gerade vergesse. Aber ein letzter Punkt ist mir noch besonders wichtig:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Sinn: In vielen Unternehmen und Unternehmungen ist das der kritischste Punkt. Hat das, was wir tun, wirklich Sinn? Noch ein Bankensystem, eine E-Commerce-Lösung, eine Werbeplattform – sind wir in solchen Umgebungen wirklich sicher, dass wir die Welt zu einem besseren Ort machen, wenn wir an solchen Dingen arbeiten? Ich arbeite seit knapp 30 Jahren gerne in der Privatwirtschaft und kann dort durchaus Unterschiede machen zwischen Dingen, die in Ordnung sind, solchen, die wirklich Freude machen, und solchen, an denen ich lieber nicht mitarbeiten möchte. Aber hier liegt aus meiner Sicht die größte Chance, und es ist nahezu tragisch, dass sie nicht genutzt wird: &lt;em&gt;Eigentlich&lt;/em&gt; dürfte nichts die Sinnfrage so gut beantworten können wie eine Lösung, die der Allgemeinheit zugute kommt. Bessere Verteilung staatlicher Leistungen, weniger Bürokratie, einfachere Prozesse, besseres Gesundheitsmanagement, bessere Lösungen für Schule und Ausbildung … die Liste der Dinge, die die öffentliche Hand tut oder tun könnte, die ohne jede Frage &lt;em&gt;sinnvoll&lt;/em&gt; sind, ist eigentlich paradiesisch. Das ist deswegen so schön, weil genau die Frage nach dem Sinn die ist, deren positive Beantwortung für Motivation von Mitarbeiterinnen und Mitarbeitern am allerwichtigsten ist.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Was ich damit sagen will: &lt;em&gt;Eigentlich&lt;/em&gt; müsste das Mitwirken an Lösungen im öffentlichen Dienst der tollste Job überhaupt sein. Dass es das nicht ist, ist tragisch und schadet uns allen. Und bevor mich jemand bezichtigt, auch nur einer von den »Die-da-oben-sind-alle-so-doof«-Schreiern zu sein: Das meine ich keinesfalls. Es ist unser Staat, gestaltet von den durch uns demokratisch gewählten Kräften, der hier die falschen Ergebnisse produziert, und deswegen sind wir auch alle daran mitschuld. Wir sollten das ändern. Eine Partei, die sich das auf die Fahnen schreibt, fände ich sehr unterstützungswürdig. Eine parteiübergreifende Initiative dazu noch viel mehr.&lt;/p&gt;</content>
+    <id>https://www.tilkov.com/post/2020/12/03/accessibility/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-03T19:10:15Z</published>
+    <content type="html">&lt;p&gt;A long time ago, I recorded a podcast episode with &lt;a href=&#34;http://www.heise.de/developer/artikel/Episode-38-Barrierefreiheit-1780121.html&#34;&gt;Artur Ortega&lt;/a&gt; (in German, but we’ve actually got &lt;a href=&#34;https://www.case-podcast.org&#34;&gt;another one coming up in English&lt;/a&gt;, although not about this topic; also, Artur is active on Twitter as &lt;a href=&#34;https://mobile.twitter.com/DesignedByBlind&#34;&gt;@DesignedByBlind&lt;/a&gt; and worth following, just saying.) We talked about accessibility, and the discussion we had before we actually started recording really opened my mind to a world I had only known extremely superficially. What was especially mind-blowing to me was that Germany, my own country, turned out to be rather not at all the model environment I had expected it to be. In fact, when you look a little more closely, Germany is actually a disaster. For example, it’s still perfectly acceptable for schools, public buildings, or cultural venues to not be accessible to wheelchair users. There is still no law mandating private web sites are accessible (although there is one for the public sector, but it’s still pretty new).&lt;/p&gt;
+&lt;p&gt;I find this completely unacceptable. I think it’s a disgrace that it’s still up for debate whether someone who is visually impaired, or someone who can’t hear, or someone who can’t use a mouse, can be excluded from using some service &lt;em&gt;even though there would be perfectly good ways for them to use those things if people made a bit of an effort&lt;/em&gt;. Worse, sometimes it’s more a case of people &lt;em&gt;ruining perfectly good accessibility&lt;/em&gt; that’s built into things already, simply out of ignorance.&lt;/p&gt;
+&lt;p&gt;This is one of the cases &lt;a href=&#34;/post/2020/12/01/speaking-up/&#34;&gt;I referred to&lt;/a&gt; before: I think we as an industry have a resonsibility here, a responsibility to refuse to build things that exclude people. And of course “the industry” here is just a placeholder: I think it should be each individual’s responsibility to care about those aspects, and to refuse to build inaccessible things if they’re asked to do so.&lt;/p&gt;
+&lt;p&gt;Now of course, this may not always be feasible, and I don’t subscribe to the view that indididual action is enough to heal the lack of legal rules and regulations. But being loud-mouthed about it, talking about it, trying to advocate it wherever you can, voting appropriately, and simply &lt;em&gt;caring&lt;/em&gt; about this should be a moral duty.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Speaking up</title>
+    <author>
+      <name>Stefan Tilkov</name>
+      <uri>https://www.tilkov.com/</uri>
+    </author>
+    <id>https://www.tilkov.com/post/2020/12/01/speaking-up/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-12-01T19:10:15Z</published>
+    <content type="html">&lt;p&gt;Here’s one of the things I’ve started to believe in the last few years: Society has been very good to us, and we owe it to society to become more active to change it for the better (or prevent it from becoming worse). By &lt;em&gt;us&lt;/em&gt;, I refer to us tech people – developers, software architects, anyone remotely connected to the highly successful “digitalization” industry. Sure, we used to be the unhappy nerds noone wanted to party with, and maybe at some point in time, self-pity was justified. But those days are long gone. These days, people in this industry make something between a comfortable and a ridiculous amount of money, and often have the luxury of being able to take their pick from multiple job offers. We’re respected, possibly envied, and not only financially: We’re also the ones who know how most of the new-fangled stuff works, at least to a larger degree than most “normal” people; we’re never the ones who are threatened by new technological developments – we’re the ones helping to create the thread. It’s nice to be in that position, and I enjoy it quite a bit. (Not threatening people; you know what I mean.)&lt;/p&gt;
+&lt;p&gt;I am not saying that the IT industry is inherently bad, or that progress can be stopped, or that work that can be trivially automated shouldn’t be. What I am saying is that we need to start doing those things more responsibly than we did in the past.&lt;/p&gt;
+&lt;p&gt;On the more trivial side of things, it means that some tech people need to shut up. Just because you’ve been lucky enough to be in the tech industry at the right place and time enabling you to make a metric shit-ton of money doesn’t make you more worthy of attention, or your ramblings on whatever ethical or political problem you write or talk about relevant. When I was younger, I used to believe in the awesomeness, the general genius of some of my tech heroes, independently of what it was they talked about. It turns out that’s a really bad idea, and there are numerous examples of brilliant tech people who turn out to be complete fools when it comes to topics any politics, sociology or psychology major learns within their first university year.&lt;/p&gt;
+&lt;p&gt;On the more relevant side of things, I believe that we need to speak up, specifically in those cases when our expertise is important to arrive at good decisions. Some examples include the capabilities and limits of machine learning and the related risk of bias, end-to-end encryption and the foolishness of trying to break it a little bit to support law enforcement, the risks of algorithms driving user engagement on social media platforms, the horrible concept of electronic voting, or the lack of accessibility of web sites and apps. While we’re definitely not the right people to make those decisions on our own, it’s an even worse idea for anyone to make them without appropriate technical input.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Why is this Site so Ugly?</title>
+    <author>
+      <name>Stefan Tilkov</name>
+      <uri>https://www.tilkov.com/</uri>
+    </author>
+    <id>https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-11-30T19:10:15Z</published>
+    <content type="html">&lt;p&gt;You might think the answer to this question is obvious: Because I don’t know CSS well enough to make it beautiful. And while technically, that’s 100% correct, there’s also a secondary reason: I wanted to reduce the effort to maintain things around here to an absolute minimum. I just wanted things to be clearly readable, and I think the current “design” serves that purpose quite well.&lt;/p&gt;
+&lt;p&gt;Of course even the 20 or so lines of inline CSS (yes indeed) are stolen from the brilliant &lt;a href=&#34;https://perfectmotherfuckingwebsite.com&#34;&gt;perfect motherfucking website&lt;/a&gt;. I inlined them because that means that if you’re reading a page like this one, your browser was served exactly that, a single page (unless I include an image or diagram because it makes sense for the content). It’s as design-free as I dare to make it. I think this works very well for single content pages.&lt;/p&gt;
+&lt;p&gt;Of course, design matters more on other pages, e.g. the home page itself. But I don’t really think that’s a problem either. Who would end up visiting that anyway? Chances are you arrived here because you followed a link from some social media post, or because something turned up in a Google search. Home pages are vastly overrated.&lt;/p&gt;
+&lt;p&gt;I also tried to opt for the (to me) simplest possible setup with regards to authoring posts and maintaing this site. So I decided to host this on &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt;, based on a &lt;a href=&#34;https://github.com/stilkov/netlify-site&#34;&gt;Github repo&lt;/a&gt; containing a very minimalistic &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; setup (originally based on the &lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;xmin theme&lt;/a&gt;, but there’s really nothing left of it). Create a post, add, commit, push, done. It’s simple and serves its purpose, but I’m not &lt;em&gt;completely&lt;/em&gt; happy with it: For my taste, Netlify is way too slow – probably unnoticable for many sites, but in this particular case, there is really almost no content to serve, and the fact that occasionally takes more than a second is pretty ridiculous. But I’ll deal with that another time.&lt;/p&gt;
+&lt;p&gt;My goal was to reduce friction, and make sure I have zero excuses left for not writing. With this and the last post out of the way, I think I may have to admit I have reached that goal.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update 2020-12-15&lt;/em&gt;: Some things have changed, I’ll document them soon (e.g. this is now built with Hugo as a GitHub action, and the result is served by GitHub Pages).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A Collection of Old Stuff</title>
+    <author>
+      <name>Stefan Tilkov</name>
+      <uri>https://www.tilkov.com/</uri>
+    </author>
+    <id>https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/</id>
+    <updated>2021-01-15T21:51:44Z</updated>
+    <published>2020-11-30T19:09:15Z</published>
+    <content type="html">&lt;p&gt;It’s hard to believe even for myself, but for quite some time (from 2003 until 2010), I was a very regular “blogger” (Don’t laugh! Yes, we did use that label unironically back then.) I’ve tried multiple times to restart the habit, but managed only 30 posts from 2011 to 2017. For now, I maintain all of my posts from back then &lt;a href=&#34;https://www.innoq.com/blog/st/&#34;&gt;in an archive&lt;/a&gt; over on the innoq.com main site, under the original URI.&lt;/p&gt;</content>
   </entry>
 </feed>
