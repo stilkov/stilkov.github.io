@@ -1,6 +1,5 @@
 ---
 title: 'A Collection of Old Stuff'
-date: '2020-11-29'
 lang: 'en'
 ---
 
