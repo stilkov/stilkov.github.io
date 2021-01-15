@@ -1,6 +1,5 @@
 ---
 title: 'Accessibility'
-date: '2020-12-03'
 lang: 'en'
 ---
 
