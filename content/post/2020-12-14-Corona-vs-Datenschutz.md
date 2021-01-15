@@ -1,6 +1,6 @@
 ---
 title: 'Corona vs. Datenschutz'
-date: '2020-12-14'
+date: '2020-12-14T20:10:15+01:00'
 lang: 'de'
 ---
 

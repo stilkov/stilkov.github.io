@@ -1,6 +1,6 @@
 ---
 title: 'The Impossible Conference'
-date: '2020-12-10'
+date: '2020-12-10T20:10:15+01:00'
 lang: 'en'
 ---
 

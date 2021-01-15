@@ -1,6 +1,6 @@
 ---
 title: 'IT mit Vernunft'
-date: '2021-01-05'
+date: '2021-01-05T20:30:15+01:00'
 lang: 'de'
 ---
 

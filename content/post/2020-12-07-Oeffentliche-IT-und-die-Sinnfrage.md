@@ -1,6 +1,6 @@
 ---
 title: 'Öffentliche IT und die Sinnfrage'
-date: '2020-12-07'
+date: '2020-12-07T20:10:15+01:00'
 lang: 'de'
 ---
 

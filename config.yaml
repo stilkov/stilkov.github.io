@@ -21,7 +21,7 @@ enableGitInfo: true
 
 frontmatter:
   date:
-    - :git
+    - :default
 
 mediaTypes:
   application/atom+xml:

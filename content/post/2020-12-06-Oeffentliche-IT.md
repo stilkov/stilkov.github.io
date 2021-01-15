@@ -1,6 +1,6 @@
 ---
 title: 'Wie man die öffentliche IT rettet'
-date: '2020-12-06'
+date: '2020-12-06T20:10:15+01:00'
 lang: 'de'
 ---
 
