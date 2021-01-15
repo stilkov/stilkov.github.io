@@ -1,10 +1,11 @@
-baseurl: "/"
+baseurl: "https://www.tilkov.com/"
 
 title: "Stefan Tilkov"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
+languageCode: en-us
 
 permalinks:
   note: "/note/:year/:month/:day/:slug/"
@@ -14,6 +15,32 @@ params:
   description: "Stefan Tilkov"
   footer: "&copy; 2020 [Stefan Tilkov](/about) | [Home](/) | [RSS](/index.xml) | [Twitter](https://twitter.com/stilkov)"
 
+enableGitInfo: true
+
+
+frontmatter:
+  date:
+    - :git
+
+mediaTypes:
+  application/atom+xml:
+    suffixes:
+    - atom
+
+outputFormats:
+  ATOM:
+    name: ATOM
+    baseName: feed
+    mediaType: application/atom+xml
+
+params:
+  mainSections: post
+
+outputs:
+  home:
+  - HTML
+  - ATOM
+    
 markup:
   goldmark:
     renderer:
