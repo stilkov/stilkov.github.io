@@ -1,5 +1,4 @@
 ---
 title: ''
-date: ''
 lang: 'en'
 ---
