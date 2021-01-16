@@ -39,6 +39,7 @@ outputs:
   home:
   - HTML
   - ATOM
+  - RSS
     
 markup:
   goldmark:
