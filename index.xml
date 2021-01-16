@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Stefan Tilkov</title>
+    <link>https://www.tilkov.com/</link>
+    <description>Recent content in Home on Stefan Tilkov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.tilkov.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Text Atom Feed</title>
+      <link>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</link>
+      <pubDate>Fri, 15 Jan 2021 22:30:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</guid>
+      <description>Back in the old days, this would have been the very first thing I cared about, but I guess I’m either getting old or I’m actually more reasonable and spend time on content instead of meta issues. Whatever the reason, the site now has a full text Atom feed. That’s the saner version of RSS, but if you don’t care about the difference, it should do approximately the same thing for you.</description>
+    </item>
+    
+    <item>
+      <title>IT mit Vernunft</title>
+      <link>https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/</link>
+      <pubDate>Tue, 05 Jan 2021 20:30:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/</guid>
+      <description>Ich habe wie viele andere auch schon häufiger über die mangelhafte Digitalisierung in der öffentlichen IT, im Gesundheits- und im Schulwesen gemotzt, z.B. hier und hier. Aber natürlich muss man sich die Frage stellen, was man tun könnte, um nicht immer nur herumzujammern, sondern konstruktiv etwas zur Verbesserung beizutragen.
+Ein erster möglicher Weg wäre der politische: Man wird Mitglied einer Partei (oder sucht zumindest deren Nähe) und bemüht sich, in eine verantwortungsvolle Position zu kommen, aus der heraus man Dinge verändern kann.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard Remapping</title>
+      <link>https://www.tilkov.com/post/2020/12/23/keyboard-remapping/</link>
+      <pubDate>Wed, 23 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/23/keyboard-remapping/</guid>
+      <description>Sometimes I spend way too much time automating or customizing things on my computers, usually with an exceptionally bad cost/benefit relation. But hey, it’s fun, and after a while, the cost is forgotten and the benefits actually feel really good.
+A few years ago, my poison of choice was finding the perfect keyboard layout. I know many people are fans of using a US keyboard layout even when they write other languages, such as German, because that’s so much better for programming.</description>
+    </item>
+    
+    <item>
+      <title>Corona vs. Datenschutz</title>
+      <link>https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/</link>
+      <pubDate>Mon, 14 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/</guid>
+      <description>Es treibt mich in den Wahnsinn, dass wir jedesmal das gleiche Spiel sehen: Ständig wird ein reales Versäumnis in der öffentlichen IT damit erklärt, es wäre der übertriebene deutsche Wunsch nach Datenschutz, der einer ordentlichen Lösung im Weg stünde. Man müsste nur den aufgeben und sich ein bisschen mehr wie China, Verzeihung, Taiwan verhalten und damit anfreunden, dass wir nur mehr Überwachung durchführen und Daten zentral abgelegen müssten, dann wäre alles so viel besser.</description>
+    </item>
+    
+    <item>
+      <title>Moved to GitHub Pages</title>
+      <link>https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/</link>
+      <pubDate>Fri, 11 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/</guid>
+      <description>I’ve moved this little excuse for a blog from Netlify to GitHub pages; I maintain the sources for the content there, anyway, and using it for a handful of static files seemed a little more lightweight. (At the moment, I still render the output using Hugo on the command line, but hope to figure out how to use GitHub actions to run this remotely – after all, why not spend a day or so figuring out how to automate something that will take me literally minutes otherwise?</description>
+    </item>
+    
+    <item>
+      <title>There’s no Testing like Production Testing</title>
+      <link>https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/</link>
+      <pubDate>Fri, 11 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/</guid>
+      <description>One of the benefits of having this little domain outside of the innoq.com realm: I’m much more likely to try things out. I admit this reduces the barrier to writing something quite a bit, even though our internal barriers to publishing couldn’t be much lower than they are. In this spirit, this post might appear in my LinkedIn profile, hopefully not in the wrong place. But hey, no testing like production testing.</description>
+    </item>
+    
+    <item>
+      <title>The Impossible Conference</title>
+      <link>https://www.tilkov.com/post/2020/12/10/the-impossible-conference/</link>
+      <pubDate>Thu, 10 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/10/the-impossible-conference/</guid>
+      <description>I had tons of fun yesterday at INNOQ’s first Technology Day, our very own litte online conference. The idea was first discussed exactly two months ago, when my co-worker Martina approached me and suggested we might do something for our customers (and for our marketing) by assembling some of the awesome people we have on board, asking them to present something they’d possibly presented this year elsewhere, or wanted to present for the first time, and adding some interesting interactive formats that highlight how we work these days.</description>
+    </item>
+    
+    <item>
+      <title>Öffentliche IT und die Sinnfrage</title>
+      <link>https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/</link>
+      <pubDate>Mon, 07 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/</guid>
+      <description>In meinem Post zum Thema IT bei der öffentlichen Hand habe ich mich auf das Thema Gehalt konzentriert. Daraus könnte man schließen, dass ich das für das Wichtigste halte – aber das tue ich keineswegs. Es ist ein notwendiger, aber nicht hinreichender Bestandteil eines Gesamtpakets, und zwar der, der aus meiner Sicht im öffentlichen Dienst am schwierigsten zu ändern ist – deswegen habe ich zunächst dazu etwas geschrieben.
+Aber es gibt natürlich noch eine Reihe weiterer Aspekte, die einen Arbeitgeber im IT-Umfeld aus meiner Sicht attraktiv machen.</description>
+    </item>
+    
+    <item>
+      <title>Wie man die öffentliche IT rettet</title>
+      <link>https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/</link>
+      <pubDate>Sun, 06 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/</guid>
+      <description>Die meisten IT-Fuzzis sind gar nicht so dämlich. Es gibt genügend Leute, die gute Ideen haben und sinnvoll dazu beitragen könnten, Dinge besser zu machen. Zum Beispiel die Corona-Infektionsnachverfolgung, über die ich gerade diese Meldung gelesen habe, die mich schier in den Wahnsinn treibt (sorry für das Medium):
+ »Der Bund verweigert dem Robert Koch-Institut (RKI) während der zweiten Corona-Welle eine dringend notwendige Aufstockung des Personals. […] Der Haushaltsausschuss des Bundestags bewilligte dem RKI für den IT-Bereich nach Informationen von WELT AM SONNTAG Ende November lediglich vier neue Stellen – von 68, die das Institut beantragt hatte.</description>
+    </item>
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://www.tilkov.com/post/2020/12/03/accessibility/</link>
+      <pubDate>Thu, 03 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/03/accessibility/</guid>
+      <description>A long time ago, I recorded a podcast episode with Artur Ortega (in German, but we’ve actually got another one coming up in English, although not about this topic; also, Artur is active on Twitter as @DesignedByBlind and worth following, just saying.) We talked about accessibility, and the discussion we had before we actually started recording really opened my mind to a world I had only known extremely superficially. What was especially mind-blowing to me was that Germany, my own country, turned out to be rather not at all the model environment I had expected it to be.</description>
+    </item>
+    
+    <item>
+      <title>Speaking up</title>
+      <link>https://www.tilkov.com/post/2020/12/01/speaking-up/</link>
+      <pubDate>Tue, 01 Dec 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/12/01/speaking-up/</guid>
+      <description>Here’s one of the things I’ve started to believe in the last few years: Society has been very good to us, and we owe it to society to become more active to change it for the better (or prevent it from becoming worse). By us, I refer to us tech people – developers, software architects, anyone remotely connected to the highly successful “digitalization” industry. Sure, we used to be the unhappy nerds noone wanted to party with, and maybe at some point in time, self-pity was justified.</description>
+    </item>
+    
+    <item>
+      <title>Why is this Site so Ugly?</title>
+      <link>https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/</link>
+      <pubDate>Mon, 30 Nov 2020 20:10:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/</guid>
+      <description>You might think the answer to this question is obvious: Because I don’t know CSS well enough to make it beautiful. And while technically, that’s 100% correct, there’s also a secondary reason: I wanted to reduce the effort to maintain things around here to an absolute minimum. I just wanted things to be clearly readable, and I think the current “design” serves that purpose quite well.
+Of course even the 20 or so lines of inline CSS (yes indeed) are stolen from the brilliant perfect motherfucking website.</description>
+    </item>
+    
+    <item>
+      <title>A Collection of Old Stuff</title>
+      <link>https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/</link>
+      <pubDate>Mon, 30 Nov 2020 20:09:15 +0100</pubDate>
+      
+      <guid>https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/</guid>
+      <description>It’s hard to believe even for myself, but for quite some time (from 2003 until 2010), I was a very regular “blogger” (Don’t laugh! Yes, we did use that label unironically back then.) I’ve tried multiple times to restart the habit, but managed only 30 posts from 2011 to 2017. For now, I maintain all of my posts from back then in an archive over on the innoq.com main site, under the original URI.</description>
+    </item>
+    
+    <item>
+      <title>About Stefan Tilkov</title>
+      <link>https://www.tilkov.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tilkov.com/about/</guid>
+      <description>Stefan Tilkov is co-founder and co-CEO at INNOQ, a consultancy with offices in Germany and Switzerland. He also finds it quite weird to talk about himself in the third person singular, so for now, find out more at his author page on innoq.com.</description>
+    </item>
+    
+  </channel>
+</rss>
