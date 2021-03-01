@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</loc>
-    <lastmod>2021-01-15T22:51:44+01:00</lastmod>
+    <loc>https://www.tilkov.com/post/2021/03/01/ddd-is-overrated/</loc>
+    <lastmod>2021-03-01T12:31:32+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.tilkov.com/post/</loc>
+    <lastmod>2021-03-01T12:31:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</loc>
     <lastmod>2021-01-15T22:51:44+01:00</lastmod>
   </url>
   
