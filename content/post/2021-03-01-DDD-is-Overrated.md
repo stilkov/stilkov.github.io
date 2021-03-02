@@ -4,6 +4,8 @@ lang: 'en'
 date: 2021-03-01T12:00:15+01:00
 ---
 
+_Update: There’s a [slightly extended version of this post](https://www.innoq.com/en/blog/is-domain-driven-design-overrated/) over at the INNOQ company blog._
+
 There, I said it. Now that I have your attention: Domain Driven Design (DDD) has recently gained additional popularity, as evidenced by new books, conference talks (and even complete conferences dedicated to it), and lots of trainings – including some by our very own colleagues at [INNOQ](https://www.innoq.com/). And in contrast to my click-bait headline, I’m actually a fan. [Eric Evans’s book](https://www.dddcommunity.org/book/evans_2003/), the additional work writing and evangelizing it done by [Vaughn Vernon](https://vaughnvernon.com) (e.g. in [this very good podcast](https://www.case-podcast.org/15-domain-driven-design-with-vaughn-vernon) with my colleague Joy) and many others, are all very good additions to our industry’s body of knowledge. In the best sense of pattern languages, DDD gives clear names to things that many developers and designers know how to do, but cannot reliably and compatibly communicate about.
 
 But I’m annoyed by the fact that recently, it seems that any time somebody talks about how to architect system or service boundaries, or even just mentions non-technical design, everybody feels compelled to bring in the DDD experts – as if they were the only superheroes who could possibly design anything at all. This is just as bad as any other situation where you blindly apply the solution that’s currently en vogue, just because it is the thing everyone talks about, and not because it is the right solution for the job. DDD is great, but it’s just one of many tools and techniques you should be aware of.
