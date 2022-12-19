@@ -13,7 +13,7 @@ permalinks:
 
 params:
   description: "Stefan Tilkov"
-  footer: "&copy; 2020-2021 [Stefan Tilkov](/about) | [Home](/) | [RSS](/feed.atom) | [Twitter](https://twitter.com/stilkov)"
+  footer: "&copy; 2020-2021 [Stefan Tilkov](/about) | [Home](/) | [RSS](/feed.atom) | [Mastodon](https://innoq.social/@stilkov)"
   mainSections: post
 
 enableGitInfo: true
