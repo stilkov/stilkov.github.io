@@ -7,18 +7,18 @@
     <uri>https://www.tilkov.com/</uri>
   </author>
   <generator>Hugo gohugo.io</generator>
-  <updated>2022-12-19T11:31:07Z</updated>
+  <updated>2022-12-20T15:01:28Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.tilkov.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.tilkov.com/" hreflang="en-us"/>
   <link rel="alternate" type="application/rss+xml" href="https://www.tilkov.com/index.xml" hreflang="en-us"/>
   <entry>
-    <title>Mastodon</title>
+    <title>Mastodon!</title>
     <author>
       <name>Stefan Tilkov</name>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2022/12/19/mastodon/</id>
-    <updated>2022-12-19T09:34:24Z</updated>
+    <updated>2022-12-20T15:01:01Z</updated>
     <published>2022-12-19T09:30:00Z</published>
     <content type="html">&lt;p&gt;It’s sad, as usual, but I haven’t blogged anything for a long time. What’s even more sad is that this is one of those meta posts – it’s kind of weird how I (and others) always end up writing about the structure I &lt;em&gt;would&lt;/em&gt; use if I &lt;em&gt;were&lt;/em&gt; actually producing useful content. Whatever. The big drama of December 2022 is Elon Musk’s total mismanagement of Twitter, so like many others, I’ve essentially moved to Mastodon. You can find me at &lt;a href=&#34;https://innoq.social/@stilkov&#34;&gt;INNOQ’s brand-new company&lt;/a&gt; instance, &lt;a href=&#34;https://innoq.social&#34;&gt;innoq.social&lt;/a&gt;, which also hosts a few dozen of my colleagues.&lt;/p&gt;
 &lt;p&gt;So far, I’ve found Mastodon and the Fediverse community to be much more aligned with my interests than Twitter, with a lot less drama and self-promotion. We’ll see how long this lasts, but for the moment I’m quite happy there.&lt;/p&gt;</content>
