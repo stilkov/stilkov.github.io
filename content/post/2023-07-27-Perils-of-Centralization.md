@@ -24,7 +24,7 @@ The second area where standardizing and centralizing models is firmly rooted as
 a best practice is in the data space. Luckily, there is a counter-movement:
 The [data mesh approach](https://www.datamesh-architecture.com) fundamentally adopts the
 idea of decentralized responsibility, and is a great match for organizations that have
-adopted the concept of self-containend, value-stream oriented teams.
+adopted the concept of self-containend, value stream-oriented teams.
 
 I believe that especially as money has become more expensive, creating
 centralized pools of (meta) data will be harder and harder to justify to
