@@ -12,7 +12,7 @@
       <pubDate>Thu, 27 Jul 2023 17:00:00 +0100</pubDate>
       
       <guid>https://www.tilkov.com/post/2023/07/27/perils-of-centralization/</guid>
-      <description>A long time ago, I wrote a blog post about reasons to avoid a canonical data model. It keeps getting referred to and still creates some interesting conversations, so I thought it might make sense to write my current thoughts about the topic.
+      <description>A long time ago, I wrote a blog post about reasons to avoid a canonical data model. It keeps getting referred to and still creates some interesting conversations, so I thought it might make sense to write down my current thoughts about the topic.
 First of all, the idea of simplifying an organization’s IT structure and architecture by “just” standardizing the data models is alive and well (though still as misguided as ever).</description>
     </item>
     
