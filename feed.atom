@@ -7,7 +7,7 @@
     <uri>https://www.tilkov.com/</uri>
   </author>
   <generator>Hugo gohugo.io</generator>
-  <updated>2023-07-28T09:29:24Z</updated>
+  <updated>2023-07-28T09:44:29Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.tilkov.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.tilkov.com/" hreflang="en-us"/>
   <link rel="alternate" type="application/rss+xml" href="https://www.tilkov.com/index.xml" hreflang="en-us"/>
@@ -18,7 +18,7 @@
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2023/07/27/perils-of-centralization/</id>
-    <updated>2023-07-28T09:29:08Z</updated>
+    <updated>2023-07-28T09:44:12Z</updated>
     <published>2023-07-27T16:00:00Z</published>
     <content type="html">&lt;p&gt;A long time ago, I wrote &lt;a href=&#34;https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/&#34;&gt;a blog post&lt;/a&gt;
 about reasons to avoid a canonical data model. It keeps getting referred
@@ -37,7 +37,7 @@ much larger benefits of autonomy.&lt;/p&gt;
 a best practice is in the data space. Luckily, there is a counter-movement:
 The &lt;a href=&#34;https://www.datamesh-architecture.com&#34;&gt;data mesh approach&lt;/a&gt; fundamentally adopts the
 idea of decentralized responsibility, and is a great match for organizations that have
-adopted the concept of self-containend, value-stream oriented teams.&lt;/p&gt;
+adopted the concept of self-containend, value stream-oriented teams.&lt;/p&gt;
 &lt;p&gt;I believe that especially as money has become more expensive, creating
 centralized pools of (meta) data will be harder and harder to justify to
 stakeholders. It’s much better to do things that allow end-to-end teams
