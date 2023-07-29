@@ -7,7 +7,7 @@
     <uri>https://www.tilkov.com/</uri>
   </author>
   <generator>Hugo gohugo.io</generator>
-  <updated>2023-07-28T09:44:29Z</updated>
+  <updated>2023-07-29T12:25:07Z</updated>
   <link rel="self" type="application/atom+xml" href="https://www.tilkov.com/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://www.tilkov.com/" hreflang="en-us"/>
   <link rel="alternate" type="application/rss+xml" href="https://www.tilkov.com/index.xml" hreflang="en-us"/>
@@ -18,6 +18,7 @@
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2023/07/27/perils-of-centralization/</id>
+    <link href="https://www.tilkov.com/post/2023/07/27/perils-of-centralization/"/>
     <updated>2023-07-28T09:44:12Z</updated>
     <published>2023-07-27T16:00:00Z</published>
     <content type="html">&lt;p&gt;A long time ago, I wrote &lt;a href=&#34;https://www.innoq.com/en/blog/thoughts-on-a-canonical-data-model/&#34;&gt;a blog post&lt;/a&gt;
@@ -52,6 +53,7 @@ many successful architectural approaches in the past few years.&lt;/p&gt;</conte
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2022/12/20/twitter-archive/</id>
+    <link href="https://www.tilkov.com/post/2022/12/20/twitter-archive/"/>
     <updated>2022-12-20T16:11:40Z</updated>
     <published>2022-12-20T16:00:00Z</published>
     <content type="html">&lt;p&gt;I’ve created &lt;a href=&#34;/twitter&#34;&gt;an online archive of my Twitter content&lt;/a&gt;, using
@@ -70,6 +72,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2022/12/19/mastodon/</id>
+    <link href="https://www.tilkov.com/post/2022/12/19/mastodon/"/>
     <updated>2022-12-20T15:47:02Z</updated>
     <published>2022-12-19T09:30:00Z</published>
     <content type="html">&lt;p&gt;It’s sad, as usual, but I haven’t blogged anything for a long time. What’s even more sad is that this is one of those meta posts – it’s kind of weird how I (and others) always end up writing about the structure I &lt;em&gt;would&lt;/em&gt; use if I &lt;em&gt;were&lt;/em&gt; actually producing useful content. Whatever. The big drama of December 2022 is Elon Musk’s total mismanagement of Twitter, so like many others, I’ve essentially moved to Mastodon. You can find me at &lt;a href=&#34;https://innoq.social/@stilkov&#34;&gt;INNOQ’s brand-new company&lt;/a&gt; instance, &lt;a href=&#34;https://innoq.social&#34;&gt;innoq.social&lt;/a&gt;, which also hosts a few dozen of my colleagues.&lt;/p&gt;
@@ -82,6 +85,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2021/03/01/ddd-is-overrated/</id>
+    <link href="https://www.tilkov.com/post/2021/03/01/ddd-is-overrated/"/>
     <updated>2021-03-02T14:34:47Z</updated>
     <published>2021-03-01T11:00:15Z</published>
     <content type="html">&lt;p&gt;&lt;em&gt;Update: There’s a &lt;a href=&#34;https://www.innoq.com/en/blog/is-domain-driven-design-overrated/&#34;&gt;slightly extended version of this post&lt;/a&gt; over at the INNOQ company blog.&lt;/em&gt;&lt;/p&gt;
@@ -97,6 +101,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/</id>
+    <link href="https://www.tilkov.com/post/2021/01/15/full-text-atom-feed/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2021-01-15T21:30:15Z</published>
     <content type="html">&lt;p&gt;Back in the old days, this would have been the very first thing I cared about, but I guess I’m either getting old or I’m actually more reasonable and spend time on content instead of meta issues. Whatever the reason, the site now has &lt;a href=&#34;/feed.atom&#34;&gt;a full text Atom feed&lt;/a&gt;. That’s the saner version of RSS, but if you don’t care about the difference, it should do approximately the same thing for you. Let me know if there are any issues.&lt;/p&gt;</content>
@@ -108,6 +113,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/</id>
+    <link href="https://www.tilkov.com/post/2021/01/05/it-mit-vernunft/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2021-01-05T19:30:15Z</published>
     <content type="html">&lt;p&gt;Ich habe wie viele andere auch schon häufiger über die mangelhafte Digitalisierung in der öffentlichen IT, im Gesundheits- und im Schulwesen gemotzt, z.B. &lt;a href=&#34;/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/&#34;&gt;hier&lt;/a&gt; und &lt;a href=&#34;/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/&#34;&gt;hier&lt;/a&gt;. Aber natürlich muss man sich die Frage stellen, was man tun könnte, um nicht immer nur herumzujammern, sondern konstruktiv etwas zur Verbesserung beizutragen.&lt;/p&gt;
@@ -126,6 +132,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/23/keyboard-remapping/</id>
+    <link href="https://www.tilkov.com/post/2020/12/23/keyboard-remapping/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-23T19:10:15Z</published>
     <content type="html">&lt;p&gt;Sometimes I spend way too much time automating or customizing things on my computers, usually with an exceptionally bad cost/benefit relation. But hey, it’s fun, and after a while, the cost is forgotten and the benefits actually feel really good.&lt;/p&gt;
@@ -141,6 +148,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/</id>
+    <link href="https://www.tilkov.com/post/2020/12/14/corona-vs.-datenschutz/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-14T19:10:15Z</published>
     <content type="html">&lt;p&gt;Es treibt mich in den Wahnsinn, dass wir jedesmal das gleiche Spiel sehen: Ständig wird ein reales Versäumnis in der öffentlichen IT damit erklärt, es wäre der übertriebene deutsche Wunsch nach Datenschutz, der einer ordentlichen Lösung im Weg stünde. Man müsste nur den aufgeben und sich ein bisschen mehr wie China, Verzeihung, Taiwan verhalten und damit anfreunden, dass wir nur mehr Überwachung durchführen und Daten zentral abgelegen müssten, dann wäre alles so viel besser.&lt;/p&gt;
@@ -155,6 +163,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/</id>
+    <link href="https://www.tilkov.com/post/2020/12/11/moved-to-github-pages/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-11T19:10:15Z</published>
     <content type="html">&lt;p&gt;I’ve moved this little excuse for a blog from Netlify to GitHub pages; I maintain the sources for the content there, anyway, and using it for a handful of static files seemed a little more lightweight. (At the moment, I still render the output using Hugo on the command line, but hope to figure out how to use GitHub actions to run this remotely – after all, why not spend a day or so figuring out how to automate something that will take me literally minutes otherwise?)&lt;/p&gt;
@@ -167,6 +176,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/</id>
+    <link href="https://www.tilkov.com/post/2020/12/11/theres-no-testing-like-production-testing/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-11T19:10:15Z</published>
     <content type="html">&lt;p&gt;One of the benefits of having this little domain outside of the innoq.com realm: I’m much more likely to try things out. I admit this reduces the barrier to writing something quite a bit, even though our internal barriers to publishing couldn’t be much lower than they are. In this spirit, this post might appear in my LinkedIn profile, hopefully not in the wrong place. But hey, no testing like production testing.&lt;/p&gt;</content>
@@ -178,6 +188,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/10/the-impossible-conference/</id>
+    <link href="https://www.tilkov.com/post/2020/12/10/the-impossible-conference/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-10T19:10:15Z</published>
     <content type="html">&lt;p&gt;I had tons of fun yesterday at INNOQ’s first &lt;a href=&#34;https://technologyday.innoq.com&#34;&gt;Technology Day&lt;/a&gt;, our very own litte online conference. The idea was first discussed exactly two months ago, when my co-worker Martina approached me and suggested we might do something for our customers (and for our marketing) by assembling some of the awesome people we have on board, asking them to present something they’d possibly presented this year elsewhere, or wanted to present for the first time, and adding some interesting interactive formats that highlight how we work these days.&lt;/p&gt;
@@ -195,6 +206,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/</id>
+    <link href="https://www.tilkov.com/post/2020/12/07/%C3%B6ffentliche-it-und-die-sinnfrage/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-07T19:10:15Z</published>
     <content type="html">&lt;p&gt;In meinem Post zum Thema &lt;a href=&#34;/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/&#34;&gt;IT bei der öffentlichen Hand&lt;/a&gt; habe ich mich auf das Thema Gehalt konzentriert. Daraus könnte man schließen, dass ich das für das Wichtigste halte – aber das tue ich keineswegs. Es ist ein notwendiger, aber nicht hinreichender Bestandteil eines Gesamtpakets, und zwar der, der aus meiner Sicht im öffentlichen Dienst am schwierigsten zu ändern ist – deswegen habe ich zunächst dazu etwas geschrieben.&lt;/p&gt;
@@ -218,6 +230,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/</id>
+    <link href="https://www.tilkov.com/post/2020/12/06/wie-man-die-%C3%B6ffentliche-it-rettet/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-06T19:10:15Z</published>
     <content type="html">&lt;p&gt;Die meisten IT-Fuzzis sind gar nicht so dämlich. Es gibt genügend Leute, die gute Ideen haben und sinnvoll dazu beitragen könnten, Dinge besser zu machen. Zum Beispiel die Corona-Infektionsnachverfolgung, über die ich gerade &lt;a href=&#34;https://www.welt.de/politik/deutschland/article221852030/Corona-Nachverfolgung-Bund-verweigert-Robert-Koch-Institut-IT-Kraefte.html&#34;&gt;diese Meldung&lt;/a&gt; gelesen habe, die mich schier in den Wahnsinn treibt (sorry für das Medium):&lt;/p&gt;
@@ -245,6 +258,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/03/accessibility/</id>
+    <link href="https://www.tilkov.com/post/2020/12/03/accessibility/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-03T19:10:15Z</published>
     <content type="html">&lt;p&gt;A long time ago, I recorded a podcast episode with &lt;a href=&#34;http://www.heise.de/developer/artikel/Episode-38-Barrierefreiheit-1780121.html&#34;&gt;Artur Ortega&lt;/a&gt; (in German, but we’ve actually got &lt;a href=&#34;https://www.case-podcast.org&#34;&gt;another one coming up in English&lt;/a&gt;, although not about this topic; also, Artur is active on Twitter as &lt;a href=&#34;https://mobile.twitter.com/DesignedByBlind&#34;&gt;@DesignedByBlind&lt;/a&gt; and worth following, just saying.) We talked about accessibility, and the discussion we had before we actually started recording really opened my mind to a world I had only known extremely superficially. What was especially mind-blowing to me was that Germany, my own country, turned out to be rather not at all the model environment I had expected it to be. In fact, when you look a little more closely, Germany is actually a disaster. For example, it’s still perfectly acceptable for schools, public buildings, or cultural venues to not be accessible to wheelchair users. There is still no law mandating private web sites are accessible (although there is one for the public sector, but it’s still pretty new).&lt;/p&gt;
@@ -259,6 +273,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/12/01/speaking-up/</id>
+    <link href="https://www.tilkov.com/post/2020/12/01/speaking-up/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-12-01T19:10:15Z</published>
     <content type="html">&lt;p&gt;Here’s one of the things I’ve started to believe in the last few years: Society has been very good to us, and we owe it to society to become more active to change it for the better (or prevent it from becoming worse). By &lt;em&gt;us&lt;/em&gt;, I refer to us tech people – developers, software architects, anyone remotely connected to the highly successful “digitalization” industry. Sure, we used to be the unhappy nerds noone wanted to party with, and maybe at some point in time, self-pity was justified. But those days are long gone. These days, people in this industry make something between a comfortable and a ridiculous amount of money, and often have the luxury of being able to take their pick from multiple job offers. We’re respected, possibly envied, and not only financially: We’re also the ones who know how most of the new-fangled stuff works, at least to a larger degree than most “normal” people; we’re never the ones who are threatened by new technological developments – we’re the ones helping to create the thread. It’s nice to be in that position, and I enjoy it quite a bit. (Not threatening people; you know what I mean.)&lt;/p&gt;
@@ -273,6 +288,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/</id>
+    <link href="https://www.tilkov.com/post/2020/11/30/why-is-this-site-so-ugly/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-11-30T19:10:15Z</published>
     <content type="html">&lt;p&gt;You might think the answer to this question is obvious: Because I don’t know CSS well enough to make it beautiful. And while technically, that’s 100% correct, there’s also a secondary reason: I wanted to reduce the effort to maintain things around here to an absolute minimum. I just wanted things to be clearly readable, and I think the current “design” serves that purpose quite well.&lt;/p&gt;
@@ -289,6 +305,7 @@ again, no matter how irrelevant most it may seem.&lt;/p&gt;</content>
       <uri>https://www.tilkov.com/</uri>
     </author>
     <id>https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/</id>
+    <link href="https://www.tilkov.com/post/2020/11/30/a-collection-of-old-stuff/"/>
     <updated>2021-01-15T21:51:44Z</updated>
     <published>2020-11-30T19:09:15Z</published>
     <content type="html">&lt;p&gt;It’s hard to believe even for myself, but for quite some time (from 2003 until 2010), I was a very regular “blogger” (Don’t laugh! Yes, we did use that label unironically back then.) I’ve tried multiple times to restart the habit, but managed only 30 posts from 2011 to 2017. For now, I maintain all of my posts from back then &lt;a href=&#34;https://www.innoq.com/blog/st/&#34;&gt;in an archive&lt;/a&gt; over on the innoq.com main site, under the original URI.&lt;/p&gt;</content>
