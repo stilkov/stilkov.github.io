@@ -40,6 +40,7 @@
       <uri>{{ $author.uri }}</uri>
     </author>
     <id>{{ .Permalink }}</id>
+    <link href="{{ .Permalink }}"/>
     {{- if .IsTranslated -}}
     {{ range .Translations }}
     <link rel="alternate" href="{{ .Permalink }}" hreflang="{{ .Language.Lang }}"/>
